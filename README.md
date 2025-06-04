@@ -25,8 +25,8 @@ pygame library for audio playback
 tkinter (comes with standard Python installations)
 
 Installation
-Clone the repository:
-git clone https://github.com/yourusername/tkinter-music-player.git
+Clone the repository: https://github.com/imGRiM9/MusicPlayer
+git clone 
 cd tkinter-music-player
 
 Install dependencies:
